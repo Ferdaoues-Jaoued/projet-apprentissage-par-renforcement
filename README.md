@@ -10,8 +10,7 @@ Breast Cancer Detection using VGG16 Transfer Learning
 ### 🌐 Using Google Colab
 
 1. Click on the **Open in Colab** badge at the top of this page.
-2. Ensure the dataset (`Info.txt` + `images/`) is present in the repo.
-3. In Colab, go to **Runtime → Run All**.
+2. In Colab, go to **Runtime → Run All**.
 
 Everything runs automatically.
 
